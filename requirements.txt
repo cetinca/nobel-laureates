@@ -1,0 +1,5 @@
+https://github.com/hyperskill/hs-test-python/archive/master.tar.gz
+matplotlib
+pandas
+numpy
+requests
